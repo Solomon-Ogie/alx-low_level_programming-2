@@ -5,7 +5,7 @@
  * @s1: a pointer to the first string to be compared
  * @s2: a pointer to the second string to be compared
  *
- * Return: if str1 < str1, the negative difference of the first unmatched char
+ * Return: if str1 < str2, the negative difference of the first unmatched char
  *   if str1 == str2, 0.
  *   if str1 > str2, the positive difference of the first unmatched char
  */
