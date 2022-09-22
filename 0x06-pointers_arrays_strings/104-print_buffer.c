@@ -38,9 +38,9 @@ void print_buffer(char *b, int size)
 		}
 		if (byte >= size)
 			continue;
-		putchar('\n');
+		printf("\n");
 	}
 	if (size <= 0)
-		putchar('\n');
+		printf("\n");
 }
 
