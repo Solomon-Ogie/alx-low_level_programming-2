@@ -2,7 +2,6 @@
 
 /**
  * print_alphabet - prints the alphabet
- *
  * Return: Always success
  */
 
