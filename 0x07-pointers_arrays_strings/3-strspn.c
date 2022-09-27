@@ -2,8 +2,7 @@ include "main.h"
 /**
  * _strspn - gets length of a prfix substring
  * @s: given string
- * @accept: string to check against
- *
+ * @accept: string to check against 
  * Return: number of bytes
  */
 unsigned int _strspn(char *s, char *accept)
