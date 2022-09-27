@@ -1,14 +1,14 @@
 #include "main.h"
 
 /**
- * _strstr - first occurrence of the substring 
+ * _strstr - first occurence of the substring
  * @haystack: main str to be examined
  * @needle: searched in haystack
  * Return: return 0
  */
-char *_strstr(char *haystack, char *needle);
+char *_strstr(char *haystack, char *needle)
 {
-	char *str1, *str2; 
+	char *str1, *str2;
 
 	while (*haystack != '\0')
 	{
